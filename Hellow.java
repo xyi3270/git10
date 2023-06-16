@@ -1,3 +1,5 @@
-pubilc class Hellow {
+public class Hello {
 
+	public static void main(String[] args) {
+}
 }
